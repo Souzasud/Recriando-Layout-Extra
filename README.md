@@ -14,6 +14,10 @@ Figma, para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
 - Aplicando fontes customizadas;
 - Espaçamentos
 
+# 🔖 Layout da aplicação
+O Figma está disponível nesse . Abaixo você consegue visualizar a carinha da
+aplicação:  
+
 # 🛠️ Tecnologias
 
 - HTML
